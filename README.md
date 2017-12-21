@@ -1,9 +1,4 @@
-DSDT / SSDT Patch for Asus X450JB
-Running macOS X Sierra 10.12.3
-@kholisrag
-
-GUIDE :
-I'm using guide from : @RehabMan
-
-https://www.tonymacx86.com/threads/guide-disabling-discrete-graphics-in-dual-gpu-laptops.163772/ without Patching for discrete disable
-and this https://www.tonymacx86.com/threads/guide-patching-dsdt-ssdt-for-laptop-backlight-control.152659/
+config.plist Clover : for Asus X450JB, work for me...
+DSDT Patched : for Audio, Graphics, USB 3.0, Keyboard, Display Backlight, etc
+Kext : for Asus X450JB in macOS High Sierra 10.13.2
+Display : for HiDPI
